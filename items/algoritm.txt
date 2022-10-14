@@ -1,0 +1,8 @@
+echo " step1: create a items folder on desktop in that create x.pdf,y.docx,z.png, alorithm.txt,coding.sh files
+ 
+       step2: go to the git bash then make items folder as present working directory then go to editor window create nested directories on the desktop like
+              Desktop/main/submain
+       step3: Then go to the coding =.sh file  Copy original respective files from the items directory to the specific file named directory in submain's sub directories output
+              cp source destination
+       step4: Compile coding.sh file"
+
